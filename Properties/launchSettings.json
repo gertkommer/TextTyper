@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextTyper": {
+      "commandName": "Project",
+      "commandLineArgs": "test"
+    }
+  }
+}

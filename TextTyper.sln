@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTyper", "TextTyper.csproj", "{5D3896EB-2D23-4E5E-99CB-39F1C53F509D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3896EB-2D23-4E5E-99CB-39F1C53F509D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3896EB-2D23-4E5E-99CB-39F1C53F509D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3896EB-2D23-4E5E-99CB-39F1C53F509D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3896EB-2D23-4E5E-99CB-39F1C53F509D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61862B85-8267-493E-9555-B2BFEBB28817}
+	EndGlobalSection
+EndGlobal
